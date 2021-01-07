@@ -1,0 +1,25 @@
+html, body{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body{
+  font-size: 14px;
+  font-family: "Microsoft YaHei",sans-serif,SimSun;
+  min-width: 1136px;
+  min-height: 768px;
+}
+
+a{
+  text-decoration: none;
+}
+
+ul, p {
+  margin: 0;
+  padding: 0;
+}
+
+li{
+  list-style: none;
+}
